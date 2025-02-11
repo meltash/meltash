@@ -1,64 +1,21 @@
-# 👨‍💻 Full Stack Developer
 
-## About Me
+<h1 align="center">Hi 👋, I'm Meltash</h1>
+<h3 align="center">Hello! I'm a passionate frontend developer , specializing in creating dynamic and responsive web applications.</h3>
 
-Hello! I'm a passionate Full Stack Developer with expertise in:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meltash" alt="meltash" /></a> </p>
 
-- **Backend**: PHP, SQL
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
+<p align="left"> <a href="https://twitter.com/tashveen34" target="blank"><img src="https://img.shields.io/twitter/follow/tashveen34?logo=twitter&style=for-the-badge" alt="tashveen34" /></a> </p>
 
-I enjoy building dynamic and responsive web applications that provide seamless user experiences. Currently, I'm exploring modern frameworks and contributing to open-source projects.
+- 💬 Ask me about **HTML,CSS,JS,PHP,SQL**
 
-## Technologies & Tools
+- 📫 How to reach me **meltashmel@gmail.com**
 
-### Backend
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tashveen34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tashveen34" height="30" width="40" /></a>
+</p>
 
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### Frontend
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-:::contextList
-
-::contentReference[oaicite:0]{index=0}
-
-**Project 1**  
-A brief description of Project 1, highlighting the technologies used and the problem it solves.
-:::
-
-:::contextList
-
-::contentReference[oaicite:1]{index=1}
-
-**Project 2**  
-A brief description of Project 2, highlighting the technologies used and the problem it solves.
-:::
-
-:::contextList
-
-::contentReference[oaicite:2]{index=2}
-
-**Project 3**  
-A brief description of Project 3, highlighting the technologies used and the problem it solves.
-:::
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
-## Let's Connect
-
-Feel free to reach out to me through the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://your-website.com)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meltash&show_icons=true&locale=en&layout=compact" alt="meltash" /></p>
