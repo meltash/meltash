@@ -31,6 +31,12 @@
   <a href="https://twitter.com/tashveen34" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tashveen34" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/meltash" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meltash" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/meltash" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meltash" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -63,4 +69,17 @@
 <h3 align="left">Top Languages:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meltash&show_icons=true&locale=en&layout=compact" alt="meltash" />
+</p>
+
+<h3 align="left">Pinned Projects:</h3>
+<p align="left">
+  <a href="https://github.com/meltash/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meltash&repo=project1" alt="Project 1" />
+  </a>
+  <a href="https://github.com/meltash/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meltash&repo=project2" alt="Project 2" />
+  </a>
+  <a href="https://github.com/meltash/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meltash&repo=project3" alt="Project 3" />
+  </a>
 </p>
