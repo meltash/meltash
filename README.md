@@ -1,3 +1,4 @@
+
 ## Hey 👋,  My name is Meltash, and I'm a passionate frontend developer  
   
 
@@ -50,9 +51,6 @@ When I'm not coding, I enjoy engaging in creative activities and exploring new t
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
