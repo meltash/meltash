@@ -1,4 +1,3 @@
-
 ## Hey 👋,  My name is Meltash, and I'm a passionate frontend developer  
   
 
@@ -68,6 +67,7 @@ When I'm not coding, I enjoy engaging in creative activities and exploring new t
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 </div>  
 
 <br/>  
@@ -80,7 +80,7 @@ When I'm not coding, I enjoy engaging in creative activities and exploring new t
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meltash&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
