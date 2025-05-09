@@ -1,4 +1,4 @@
-## Hey 👋,  My name is Meltash, and I'm a passionate frontend developer  
+## Hey 👋,  My name is Geofrey Mwathi, and I'm a passionate frontend developer  
   
 
 <a href="https://github.com/meltash" target="_blank">
